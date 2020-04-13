@@ -448,3 +448,6 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/android,visualstudio,xamarinstudio
+
+#Ignore SDK Folder
+MicrosoftBandSDK/*
